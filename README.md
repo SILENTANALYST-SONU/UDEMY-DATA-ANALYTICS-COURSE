@@ -6,7 +6,7 @@ This repo documents everything I learned during my Udemy Data Analytics Course, 
 >>🚀 Course Summary
 
 Throughout this course, I explored the complete data analytics workflow using Python, Pandas, NumPy, Matplotlib, Seaborn, and SQL.
-This repository contains my practice notebooks, case studies, and examples.
+This repository contains my practice codes, case studies, and examples.
 ---
 >>🧠 Topics I Learned
 
