@@ -132,9 +132,7 @@ GROUP BY department;
 
 >>📁 Repository Structure
 📦 data-analytics-udemy-learning
- ┣ 📂 datasets
- ┣ 📂 notebooks
- ┣ 📂 practice
+ ┣ 📂 codes
  ┣ 📄 README.md
  
 ---
